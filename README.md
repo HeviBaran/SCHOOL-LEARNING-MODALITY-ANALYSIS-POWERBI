@@ -1,6 +1,6 @@
 ## SCHOOL-LEARNING-MODALITY-ANALYSIS-POWER-BI
 
-#### This analysis is prepared for take a look on the school districts and their Learning Modalities. We try to understand if the remote and hybrid modalities can be used commonly in each part of the country. This information can be used as a supporter for another research for improving school learning modalities in the future.  
+This analysis is prepared for take a look on the school districts and their Learning Modalities. We try to understand if the remote and hybrid modalities can be used commonly in each part of the country. This information can be used as a supporter for another research for improving school learning modalities in the future.  
 
 
 
